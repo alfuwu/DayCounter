@@ -22,6 +22,16 @@ Configs: {
 			Tooltip: Allows you to make the day counter invisible by default, in case you just wanted this to just be something you periodically check
 		}
 
+		AnchorLocation: {
+			Label: Anchor Location
+			Tooltip: Determines where to place the Day Counter on your screen.
+		}
+
+		AnchorOffset: {
+			Label: Anchor Offset
+			Tooltip: Offsets the Day Counter by this vector minus 0.5 in percentage relation to screen size
+		}
+
 		ServerDays: {
 			Label: World-oriented Text
 			Tooltip: The text that is displayed when Type is equal to 1. Available variables: WORLD_DAYS, WORLD_NIGHTS, PLAYER_DAYS, PLAYER_NIGHTS
