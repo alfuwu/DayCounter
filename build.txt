@@ -1,0 +1,4 @@
+displayName = Day Counter
+author = alfuwu
+version = 1.9.0
+includeSource = true

@@ -1,0 +1,16 @@
+Are day counter mods in Terraria too inaccurate for you?
+Well, look no further than this epic mod that definitely was coded by a competent person!
+You better be excited because this was made in like 30 minutes after seeing a request on the tModLoader Discord!
+
+Changelog:
+v1.0: tracks days & nights, UI implementation paired with configurable keybinds
+v1.1: added changelog, created a config to alter how text is displayed to your liking, added icon
+v1.2: fixed issue with Show Icon config option not working
+v1.3: fixed bug that caused day count to increase upon reload
+v1.4: fixed bug preventing counter from increasing (god why is this such a difficult feature to make accurate)
+v1.5: updated text to prevent it from clipping into icon when longer than usual
+v1.6: moved the UI up a little bit
+v1.7: fixed bug that caused player's day count to increase upon loading a world that hadn't been loaded with the Day Counter mod
+v1.8: 1.4.4 support
+
+All source code is available via extraction through tModLoader.
